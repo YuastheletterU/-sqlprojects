@@ -1,9 +1,3 @@
 # sqlprojects
 
-echo "# sqlprojects" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/YuastheletterU/sqlprojects.git
-git push -u origin main
+## Here I keep my personal sql projects
